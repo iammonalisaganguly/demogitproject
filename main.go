@@ -10,4 +10,10 @@ func main() {
 	fmt.Println("I am Rupam")
 	images.UTI("Boom Boom Bumer")
 
+	for i := 0; i < 4; i++ {
+		fmt.Println(i)
+	}
+	for j := 90; j > 0; j-- {
+		fmt.Println(j)
+	}
 }
