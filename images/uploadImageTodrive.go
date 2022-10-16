@@ -10,3 +10,6 @@ func main() {
 func UTI(s string) {
 	fmt.Println("hi i am a STRING----> ", s)
 }
+func NewFT() {
+	fmt.Println("hi i am a NEW FT----> ")
+}

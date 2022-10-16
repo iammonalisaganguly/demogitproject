@@ -13,7 +13,8 @@ func main() {
 	for i := 0; i < 4; i++ {
 		fmt.Println(i)
 	}
-	for j := 90; j > 0; j-- {
+	for j := 340; j > 0; j-- {
 		fmt.Println(j)
 	}
+	images.NewFT()
 }
