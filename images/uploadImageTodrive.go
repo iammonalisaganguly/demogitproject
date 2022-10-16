@@ -7,3 +7,6 @@ func main() {
 	fmt.Println("Uploading")
 	fmt.Println("To google drive...")
 }
+func UTI(s string) {
+	fmt.Println("hi i am a STRING----> ", s)
+}
